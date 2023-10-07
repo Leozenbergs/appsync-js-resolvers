@@ -1,3 +1,5 @@
+org: leozenberg
+app: appsync-blog
 service: blog
 
 frameworkVersion: '3'
